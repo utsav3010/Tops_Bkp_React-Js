@@ -1,0 +1,62 @@
+{
+    "product1": [
+        {
+            "id": 1001,
+            "name": "shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1002,
+            "name": "shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1003,
+            "name": "shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1004,
+            "name": "shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        }
+    ],
+    "product2": [
+        {
+            "id": 1001,
+            "name": "t-shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1002,
+            "name": "t-shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1003,
+            "name": "t-shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        },
+        {
+            "id": 1004,
+            "name": "t-shirt",
+            "photo": "",
+            "oldprice": 500,
+            "offerprice": 400
+        }
+    ]
+}

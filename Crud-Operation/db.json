@@ -1,0 +1,49 @@
+{
+  "add-data": [
+    {
+      "id": "44a3",
+      "fname": "Utsav",
+      "lname": "Davda",
+      "email": "dutsav171@gmail.com",
+      "password": "utsav",
+      "Mobile": "9974455375",
+      "state": ""
+    },
+    {
+      "id": "cdb0",
+      "fname": "gui",
+      "lname": "g",
+      "email": "g",
+      "password": "gu",
+      "Mobile": "gugui",
+      "state": "Gujrat"
+    },
+    {
+      "id": "650f",
+      "fname": "a",
+      "lname": "a",
+      "email": "a",
+      "password": "a",
+      "Mobile": "a",
+      "state": "Gujrat"
+    },
+    {
+      "id": "4142",
+      "fname": "a",
+      "lname": "a",
+      "email": "a",
+      "password": "a",
+      "Mobile": "d",
+      "state": "Gujrat"
+    },
+    {
+      "id": "addc",
+      "fname": "a",
+      "lname": "a",
+      "email": "a",
+      "password": "a",
+      "Mobile": "a",
+      "state": "Gujrat"
+    }
+  ]
+}

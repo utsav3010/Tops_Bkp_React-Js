@@ -1,0 +1,33 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+.nav 
+{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+ 
+}
+.nav ul 
+{
+    margin: 0;
+    padding: 0;
+    top: 0 !important;
+}
+.nav ul li 
+{
+    display: inline-block;
+    padding: 25px 15px;
+    top: 0;
+}
+.nav a 
+{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
