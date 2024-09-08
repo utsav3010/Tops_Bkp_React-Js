@@ -61,11 +61,11 @@ const Content=()=> {
           <td>{item.Mobile}</td>
           <td>{item.state}</td>
           <td>
-            <a className="btn btn-sm btn-danger text-white" onclick={()=>{Navigate(`/delete-data/${item.id}`)}}>
+            <a className="btn btn-sm btn-danger text-white" onClick={()=>{Navigate(`/delete-data/${item.id}`)}}>
               <span className="bi bi-trash" />
             </a>
             |
-            <a className="btn btn-sm btn-primary text-white" onclick={()=>{Navigate(`/edit-data/${item.id}`)}}>
+            <a className="btn btn-sm btn-primary text-white" onClick={()=>{Navigate(`/edit-data/${item.id}`)}}>
             <span className="bi bi-pencil" />
             </a>
           </td>
